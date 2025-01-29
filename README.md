@@ -19,4 +19,4 @@ The next way you can debug is by running your code. When you run your code, your
 When you're really stuck in your debbugging, you can use print statements. These print statements can be used to print variable values to check their validity, or even just to print random garbage to prove the computer got that far. Print statements are especially useful for semantical errors, or errors that do not feature poorly written code, just code that does the wrong thing. You can use print statements to check if your computer enters if statements, loops, or even if it just got far enough down to read a line. This way, you can better triangulate where a problem is when the error your compiler throws is unhelpful.
 
 # Step 2: Turn it In!
-Once you've successfully debugged the code and can get it to run successfully, turn it in to submit mode on Zybooks to get credit.
+Once you've successfully debugged the code and can get it to run successfully, turn it in on Canvas for points.
