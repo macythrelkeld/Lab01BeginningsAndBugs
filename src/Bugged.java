@@ -1,7 +1,7 @@
 public class Bugged {
     /**
      * This one just prints some random stuff and does some random math
-     *
+     * 
      * @param val
      * @param num1
      * @param num2
