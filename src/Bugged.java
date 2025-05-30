@@ -38,7 +38,7 @@ public class Bugged {
      * @param args
      */
     public static void main(String[] args){ //4 errors
-        System.out.println(printer("Indigo", 1 4.0));
+        System.out.println(printer("Indigo", 1, 4.0));
         System.out.println(jammedCalculator("4"))
         System.out.printLn("Done!");
     }
